@@ -1,4 +1,4 @@
-# Figure Generation Codes: Figures 6–17
+# Figure Generation Codes: Figures 1–13
 
 This folder contains the Python scripts used to generate Figures 1 to 13 for the manuscript:
 
