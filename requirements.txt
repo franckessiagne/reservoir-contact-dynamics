@@ -1,2 +1,11 @@
 numpy
 matplotlib
+Eclipse hardware requirements:
+CPU: 8–16 cores (high clock speed preferred)
+RAM: 32–64 GB
+Storage: SSD (NVMe strongly preferred)
+Network: Gigabit (if accessing shared storage)
+
+Python hardware requirements: GPU with at least 16 GB of memory.
+Program language: Python 3.10.
+Software required: No external software. Python dependencies are listed in the project.
