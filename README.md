@@ -6,8 +6,6 @@ This folder contains the Python scripts used to generate Figures 1 to 13 for the
 
 ## Important Note
 
-These figures are reconstructed from raw ECLIPSE simulator output files.
-
 ## Contents
 
 - `figure1.py` – Numerical workflow and experiment design
@@ -72,7 +70,7 @@ Each script saves both PNG and TIFF outputs at **190 mm width** and **1200 dpi**
 
 ## Reproducibility Statement
 
-The scripts provide reproducible figure workflows based on the raw simulator output files. The arrays in each script can be replaced with exported ECLIPSE, CMG, tNavigator, MRST, or CSV data.
+The scripts provide reproducible figure workflows . 
 
 ## Contact
 
